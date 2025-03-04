@@ -567,7 +567,7 @@ window.onload = function () {
     }
 
     function speedUp() {
-        delay = Math.max(30, delay * 0.8); // Réduction progressive de la vitesse
+        delay = Math.max(30, delay * 0.8); 
     }
 
     function gameOver() {
